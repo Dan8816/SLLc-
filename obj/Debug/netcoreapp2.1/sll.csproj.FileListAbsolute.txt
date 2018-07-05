@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\bin\Debug\netcoreapp2.1\sll.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\bin\Debug\netcoreapp2.1\sll.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\bin\Debug\netcoreapp2.1\sll.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\bin\Debug\netcoreapp2.1\sll.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\bin\Debug\netcoreapp2.1\sll.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\DataStructures\sll\obj\Debug\netcoreapp2.1\sll.pdb
