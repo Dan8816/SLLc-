@@ -22,6 +22,18 @@ namespace sll
             {
                 Last.Next = node;
                 Last = node;
+                Last.Prev = Head;
+                if (Last.Prev != Head)
+                {
+                    LinkedListNode Runner = Head;
+                    while (Runner != null)
+                    {
+                        if (Runner.Next == Last)
+                        {
+                            Last.Prev = Runner;
+                        }
+                    }
+                }
             }
         }
 
@@ -35,6 +47,7 @@ namespace sll
                     if (Runner.Next == Last)
                     {
                         Runner.Next = null;
+                        Runner = Last;
                         return;
                     }       
                 }

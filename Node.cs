@@ -6,5 +6,6 @@ namespace sll
     {
         public Object Value { get; set; }
         public LinkedListNode Next { get; set; }
+        public LinkedListNode Prev { get; set; }
     }
 }
